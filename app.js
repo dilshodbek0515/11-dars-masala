@@ -53,7 +53,9 @@
 
 // N4   23.
 
+{
 
+}
 
 
 
@@ -72,7 +74,68 @@
 //     xona(20000)
 // }
 
+
+
 // N6   25.
+
+// {
+//     function harf(str) {
+//         let count = 0;
+//         for (let char of String(str)) {
+//             if (char === 'a') {
+//                 count++
+//             }
+//         }
+//         console.log(`${str} da ---> ${count} ta a harfi bor`);
+
+//     }
+//     harf("salom")
+//     harf("dunyo")
+// }
+
+
+
+// N7   23.
+
+// {
+//     function aHarfiSoni(matn) {
+//         const suzlar = matn.split(" ");
+//         const natija = [];
+
+//         for (let suz of suzlar) {
+//             const suzlar = suz.includes('a');
+//             if (suzlar) {
+//                 natija.push(suz);
+//             }
+//         }
+
+//         console.log(`${natija.length} ta suzda a harfi bor`);
+//     }
+
+//     aHarfiSoni("salom dunyo")
+//     aHarfiSoni("salom salom salom")
+
+// }
+
+
+
+// N8   23.
+
+{
+
+}
+
+
+
+// N9   23.
+
+{
+
+}
+
+
+
+// N10   23.
 
 {
 
