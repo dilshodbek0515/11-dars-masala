@@ -46,16 +46,35 @@
 // N3   22.
 
 {
-
+    //   Domla 22 ga tushunmadim shuning uchun oxirida  30 ni qushib quydim
 }
 
 
 
 // N4   23.
 
-{
+// {
+//     function mukammalSon(num) {
+//         if (num <= 0) {
+//             return "Iltimos, musbat son kiriting";
+//         }
+//         let sum = 0;
+//         for (let i = 1; i < num; i++) {
+//             if (num % i === 0) {
+//                 sum += i;
+//             }
+//         }
+//         if (sum === num) {
+//             return `${num} mukammal son`;
+//         } else {
+//             return `${num} mukammal emas`;
+//         }
+//     }
+//     console.log(mukammalSon(6));
+//     console.log(mukammalSon(28));
+//     console.log(mukammalSon(30));
 
-}
+// }
 
 
 
@@ -121,9 +140,21 @@
 
 // N8   27.
 
-{
+// {
+//     function num(value) {
+//         if (typeof value === 'number') {
+//             return "number";
+//         } else if (typeof value === 'string') {
+//             return "string";
+//         } else {
+//             return 0;
+//         }
+//     }
 
-}
+//     console.log(num(123));
+//     console.log(num("hello"));
+//     console.log(num(true));
+// }
 
 
 
