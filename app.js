@@ -95,7 +95,7 @@
 
 
 
-// N7   23.
+// N7   26.
 
 // {
 //     function aHarfiSoni(matn) {
@@ -119,7 +119,7 @@
 
 
 
-// N8   23.
+// N8   27.
 
 {
 
@@ -127,16 +127,45 @@
 
 
 
-// N9   23.
+// N9   28.
 
-{
+// {
+//     function rev(str) {
+//         const teskari = String(str).split('').reverse().join('')
+//         console.log(teskari);
 
-}
+//     }
+//     rev("hello")
+// }
 
 
 
-// N10   23.
+// N10   29.
 
-{
+// {
+//     function sonSoni(matn) {
+//         let count = 0;
+//         for (let char of matn) {
+//             if (char >= '0' && char <= '9') {
+//                 count++;
+//             }
+//         }
+//         console.log(`${count} ta raqam bor.`);
+//     }
 
-}
+//     sonSoni("hello world 123");
+//     sonSoni("Salom, dunyo!");
+//     sonSoni("hello world 124563");
+// }
+
+
+// N11   30.
+
+// {
+//     function rev(num) {
+//         const teskari = Number(String(num).split('').reverse().join(''));
+//         console.log(teskari);
+
+//     }
+//     rev("12345")
+// }
