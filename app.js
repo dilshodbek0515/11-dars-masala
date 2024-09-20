@@ -1,4 +1,4 @@
-// N1
+// N1   20.
 
 // {
 //     function centerNum(arr) {
@@ -16,7 +16,7 @@
 // }
 
 
-// N2
+// N2   21.
 
 // {
 //     function tub(num) {
@@ -40,3 +40,40 @@
 //     console.log(tub(2));
 
 // }
+
+
+
+// N3   22.
+
+{
+
+}
+
+
+
+// N4   23.
+
+
+
+
+
+// N5   24.
+
+// {
+//     function xona(num) {
+//         const xonalar = String(num).replace('-', '').length
+//         console.log(`${num} ${xonalar}    --->   xonali son`);
+
+//     }
+//     xona(2)
+//     xona(20)
+//     xona(200)
+//     xona(2000)
+//     xona(20000)
+// }
+
+// N6   25.
+
+{
+
+}
